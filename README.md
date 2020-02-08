@@ -17,3 +17,5 @@ the author of the animals: http://www.jeffersoncheng.com/Anonymous-Animals
 ### License
 
 The code is licensed under the MIT license wihle pictures belong to Google.
+
+Added some test changes
